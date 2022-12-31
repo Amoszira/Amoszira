@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amoszira
 - 👀 I’m interested in NITDA  BLOCK CHAIN...
-- 🌱 I’m currently learning Javascript and Bitcoin
+- 🌱 I’m currently learning Javascript, Golang and Bitcoin theory
 - 💞️ I’m looking to collaborate on Block chain
 - 📫 How to reach me 08164076011, amoshyeladzira1@gmail.com   
 <!---
